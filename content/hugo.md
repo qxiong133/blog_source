@@ -5,6 +5,5 @@ title = "hugo"
 
 +++
 
-## 学习hugo使用地址
-http://www.gohugo.org/post/coderzh-hugo/
+## 学习hugo使用[地址](http://www.gohugo.org/post/coderzh-hugo/)
 
