@@ -1,3 +1,4 @@
-baseurl = "http://qxiong133.github.io/"
+#baseurl = "http://qxiong133.github.io/"
+baseurl = "http://192.168.1.133:1313/"
 languageCode = "en-us"
 title = "我的第一个博客"
