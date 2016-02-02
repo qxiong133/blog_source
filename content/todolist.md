@@ -10,7 +10,8 @@ my todo list
 
 ##  1. colleague zhangjian's ansible script + nginx proxy pip + vanish
 ##  2. nginx + openresty [agentzh nginx](https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11)
-[如何高效的学习Nginx源码](https://www.zhihu.com/question/20857459) and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
+[如何高效的学习Nginx源码](https://www.zhihu.com/question/20857459) 
+and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
 ##  3. gunicore +  nsq
 ##  4. shortcut of spf13's all pulgins [git address](https://github.com/spf13/spf13-vim)
 ##  5. kernel + compiler
@@ -27,7 +28,8 @@ my todo list
 ## 9. 一个u盘备份系统
 ## 10. vagrant_libvirt [document](https://github.com/pradels/vagrant-libvirt)/kvm book about bridge network / how to write dockerfile
 ## 11. leetcode/just for fun/algorithm competition/ zenguofan
-## 12. markdown
+## 12. [markdown](http://wowubuntu.com/markdown/index.html#header)
+[Cmd Markdown 编辑阅读器](https://www.zybuluo.com/mdeditor)
 ## 13. machine leaning
 ## 14. grogs + drone + docker
 
