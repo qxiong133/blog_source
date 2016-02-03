@@ -18,7 +18,7 @@ jobs:1
 ##  2. nginx + openresty [agentzh nginx](https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11)
 [如何高效的学习Nginx源码](https://www.zhihu.com/question/20857459) 
 and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
-##  3. gunicore +  nsq
+##  3. gunicore +  nsq + codis
 ##  4. shortcut of spf13's all pulgins [git address](https://github.com/spf13/spf13-vim)
 ##  5. kernel + compiler
 ##  6. banwagon vpn ansible deploy
