@@ -5,8 +5,14 @@ title = "todolist"
 
 +++
 
-my todo list
-=============
+daily:7,8,5,11
+===
+tools:6,4,15,9,10,
+===
+source:2,3
+===
+jobs:1
+===
 
 ##  1. colleague zhangjian's ansible script + nginx proxy pip + vanish
 ##  2. nginx + openresty [agentzh nginx](https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11)
