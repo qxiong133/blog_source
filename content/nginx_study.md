@@ -22,4 +22,5 @@ http://nginx.org/download/nginx-1.0.15.tar.gz
 # 从学习nginx的upstream模块 + lua
 # 深入upstream模块
 http://tengine.taobao.org/book/
+# 研究代码自己fork一份,然后在上面疯狂的写注释
 
