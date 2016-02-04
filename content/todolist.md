@@ -38,7 +38,7 @@ and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
 ## 13. machine leaning
 ## 14. grogs + drone + docker
 
-## 15. xmonad + tmux + vim + firefox + pentadactyl + zeal
+## 15. xmonad/[i3](http://www.draconianoverlord.com/2014/05/26/from-xmonad-to-i3.html) is the better + tmux + vim + firefox + pentadactyl + zeal
 ## archlinx + awesome window manager + vimperator firfox + idea vim plugin
 
 
