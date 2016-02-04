@@ -1,0 +1,24 @@
+
+
+[todolist]
+    Name = "TODO"
+    URL = "/todolist"
+
+[about]
+    Name = "About"
+    URL = "/about"
+
+[source]
+    Name = "Source"
+    Title = "read the source"
+    URL = "/source"
+
+[tools]
+    Name = "Tools"
+    Title = "make you fly"
+    URL = "/tools"
+
+[new_concept]
+    Name = "new_concept"
+    Title = "make you broad"
+    URL = "/new_concept"
