@@ -24,14 +24,13 @@ and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
 ##  6. banwagon vpn ansible deploy
 1. shadowsocks server
 2. pptp vpn
-3. nginx static file download server
-4. learn [ansible](http://ansible-tran.readthedocs.org/en/latest/docs/playbooks_special_topics.html)
+3. learn [ansible](http://ansible-tran.readthedocs.org/en/latest/docs/playbooks_special_topics.html)
 [ansible-tuto](https://github.com/leucos/ansible-tuto) and [vpn-deploy-playbook](https://github.com/ftao/vpn-deploy-playbook)
 
 
 ## 7. 沪江 + 百词 + new concept
 ## 8. develop news
-## 9. 一个u盘备份系统
+## 9. 一个u盘备份系统/备份server_package文件到网盘,怎么自动化呢
 ## 10. vagrant_libvirt [document](https://github.com/pradels/vagrant-libvirt)/kvm book about bridge network / how to write dockerfile
 ## 11. leetcode/just for fun/algorithm competition/ zenguofan
 ## 12. [markdown](http://wowubuntu.com/markdown/index.html#header)
