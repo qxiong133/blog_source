@@ -39,6 +39,8 @@ and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
 ## 14. grogs + drone + docker
 
 ## 15. xmonad/[i3](http://www.draconianoverlord.com/2014/05/26/from-xmonad-to-i3.html) is the better + tmux + vim + firefox + pentadactyl + zeal
+## i3: [Introduction to i3](https://xpressrazor.wordpress.com/2014/01/27/introduction-to-i3/) and [How to Use the Super Fast i3 Tiling Window Manager on Linux ](https://www.linux.com/learn/tutorials/766143-how-to-use-the-superfast-i3-tiling-window-manager-on-linux)
+[i3 User’s Guide](https://i3wm.org/docs/userguide.html)
 ## archlinx + awesome window manager + vimperator firfox + idea vim plugin
 
 
