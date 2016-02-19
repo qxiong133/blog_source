@@ -20,7 +20,7 @@ jobs:1
 and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
 ##  3. gunicore +  nsq + codis
 ##  4. shortcut of spf13's all pulgins [git address](https://github.com/spf13/spf13-vim)
-##  5. kernel + compiler
+##  5. mathematical modeling + kernel + compiler + tcp/ip + db
 ##  6. banwagon vpn ansible deploy
 1. shadowsocks server
 2. pptp vpn

@@ -10,7 +10,7 @@
 
 [source]
     Name = "Source"
-    Title = "read the source"
+    Title = "read code source"
     URL = "/source"
 
 [tools]
@@ -22,3 +22,8 @@
     Name = "new_concept"
     Title = "make you broad"
     URL = "/new_concept"
+
+[IDEAS]
+    Name = "ideas"
+    Title = ""
+    URL = "/ideas"
