@@ -37,6 +37,8 @@ title = "TODO"
 [如何高效的学习Nginx源码](https://www.zhihu.com/question/20857459) 
 and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
 *  3. gunicore +  nsq + codis
+* 4. [浏览器的工作原理：新式网络浏览器幕后揭秘](http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
+* 5. lua解释器
 
 ### jobs:
 * 1. colleague zhangjian's ansible script + nginx proxy pip + vanish
