@@ -13,6 +13,11 @@
     Title = "read code source"
     URL = "/source"
 
+[research]
+    Name = "Research"
+    Title = "every kind of interesting ting"
+    URL = "/research"
+
 [tools]
     Name = "Tools"
     Title = "make you fly"
