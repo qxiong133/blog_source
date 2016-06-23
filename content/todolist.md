@@ -35,7 +35,7 @@ title = "TODO"
 
 ### source:2,3
 *  2. nginx + openresty [agentzh nginx](https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11)
-[如何高效的学习Nginx源码](https://www.zhihu.com/question/20857459) 
+[如何高效的学习Nginx源码](https://www.zhihu.com/question/20857459) [OpenResty最佳实践](https://moonbingbing.gitbooks.io/openresty-best-practices/content/ngx_lua/block_io.html)
 and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
 *  3. gunicore +  nsq + codis
 * 4. [浏览器的工作原理：新式网络浏览器幕后揭秘](http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
@@ -44,5 +44,9 @@ and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
 ### jobs:
 * 1. colleague zhangjian's ansible script + nginx proxy pip + vanish
 * 2. 交易系统架构
+  * [美团支付平台产品规划——4月26日](http://wenku.baidu.com/view/7daa609d376baf1ffd4fad09.html)
+  * [美团点评技术沙龙07 - 大众点评支付渠道网关系统实践](http://www.slideshare.net/meituan/07-62250372)
+  * [高可用性系统在大众点评的实践与经验](http://tech.meituan.com/high-availability-systems-dianping.html)
+  * [大众点评支付渠道网关系统的实践之路](http://tech.meituan.com/The-Practice-of-Dianping-Channel-Gateway.html)
 
 
