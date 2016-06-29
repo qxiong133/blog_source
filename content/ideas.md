@@ -24,6 +24,7 @@ type: post
 * 培训机构兼职
 * 刷题提升目前工作
 * elance/freelance
+* 一个开源项目 + 视频教学
 
 ## 算法之路
 

@@ -7,8 +7,8 @@ title = "TODO"
 
 ### daily:
 
-* body exercise + song + 百词 + algorithm competition + 沪江 + new concept +  develop news 
-* mathematical modeling + kernel + compiler + tcp/ip + db
+* body exercise + song + 知米 + algorithm competition + 知米listen + new concept +  develop news 
+* mathematical modeling + kernel + compiler + tcp/ip/http + db
 * leetcode/just for fun/algorithm competition/ zenguofan
 * machine leaning
 * sicp[learn sicp](http://numbbbbb.com/2016/03/28/20160328_%E6%88%91%E5%A6%82%E4%BD%95%E7%94%A8%E4%B8%A4%E5%91%A8%E6%97%B6%E9%97%B4%E5%88%B7%E5%AE%8C%20SICP/?from=timeline&isappinstalled=0)
@@ -34,7 +34,7 @@ title = "TODO"
 [Cmd Markdown 编辑阅读器](https://www.zybuluo.com/mdeditor)
 
 ### source:2,3
-*  2. nginx + openresty [agentzh nginx](https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11)
+*  2. nginx + openresty (开发一个openresty c plugin)[agentzh nginx](https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11)
 [如何高效的学习Nginx源码](https://www.zhihu.com/question/20857459) [OpenResty最佳实践](https://moonbingbing.gitbooks.io/openresty-best-practices/content/ngx_lua/block_io.html)
 and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
 *  3. gunicore +  nsq + codis
@@ -43,10 +43,58 @@ and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
 
 ### jobs:
 * 1. colleague zhangjian's ansible script + nginx proxy pip + vanish
+  * dev machine 使用chroot实现开发环境隔离  可以玩玩lfs
+  * opserver  运维中控机  缓存 静态文件 中控ansible  openrest--api gateway
+  * app  bootstrap react django
+  * online service  es nsq codis mysql_proxy...
+  * data service hadoop spark 
+  * tools service gogs dron.io wiki ...
+
+
 * 2. 交易系统架构
   * [美团支付平台产品规划——4月26日](http://wenku.baidu.com/view/7daa609d376baf1ffd4fad09.html)
   * [美团点评技术沙龙07 - 大众点评支付渠道网关系统实践](http://www.slideshare.net/meituan/07-62250372)
   * [高可用性系统在大众点评的实践与经验](http://tech.meituan.com/high-availability-systems-dianping.html)
   * [大众点评支付渠道网关系统的实践之路](http://tech.meituan.com/The-Practice-of-Dianping-Channel-Gateway.html)
+
+* bootstrap + react + nginx lua + django + nsq
+  * django core
+      * fileupload
+      * imageupload to db with thumbnail
+      * session login + token login + weixin login
+      * xadmin
+      * input serializer and output serilaizer and with swagger doc
+      * xadmin
+      * django tdd + mock + factory + factory init db data to qality assurance
+      * django migration
+      * benchmark
+      * perfomance(1.setting slow sql switch open 2. every fun's time consume)
+          * [Django Performance Patterns 1: Measuring Performance](http://www.morethanseven.net/2011/06/30/Django-performance-1-measuring-performance/)
+              * 这里面使用profiling middleware是我们需要的 可以分析接口的每个函数的调用已经消耗的时间
+              * [Profiling Django](https://code.djangoproject.com/wiki/ProfilingDjango)
+      * review django document and restful document
+
+
+* c swig compile
+* np problem
+* 增长黑客书   增长黑客工具 (微博用户 微信用户 qq用户 淘宝用户) google广告插件/baidu/阿里  阿里云服务通过淘宝买8.5折扣
+* 博客
+  * 如何写技术设计文档 在谷歌文档里面 
+  * 流程和渠道的设计模式 控制反转ioc 依赖注入di  
+      * [Laravel 服务容器实例教程 —— 深入理解控制反转（IoC）和依赖注入（DI）](http://laravelacademy.org/post/769.html)
+      * 这边需要一个processon.com的uml图   todo
+* 日本的几本书
+* 产品 运营 bp books
+
+
+
+
+
+* 大数据基础服务  +  广告策略服务 + 反垃圾  + 运维
+  * ansible 部署 haddoop spark 
+  * 小米的运维系统
+
+
+
 
 
