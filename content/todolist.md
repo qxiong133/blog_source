@@ -72,6 +72,7 @@ and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
           * [Django Performance Patterns 1: Measuring Performance](http://www.morethanseven.net/2011/06/30/Django-performance-1-measuring-performance/)
               * 这里面使用profiling middleware是我们需要的 可以分析接口的每个函数的调用已经消耗的时间
               * [Profiling Django](https://code.djangoproject.com/wiki/ProfilingDjango)
+              * [Django log filter for slow SQL queries](http://stackoverflow.com/questions/17108810/django-log-filter-for-slow-sql-queries)
       * review django document and restful document
 
 
@@ -82,7 +83,7 @@ and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
   * 如何写技术设计文档 在谷歌文档里面 
   * 流程和渠道的设计模式 控制反转ioc 依赖注入di  
       * [Laravel 服务容器实例教程 —— 深入理解控制反转（IoC）和依赖注入（DI）](http://laravelacademy.org/post/769.html)
-      * 这边需要一个processon.com的uml图   todo
+      * 这边需要一个processon.com的uml图 [联名会员流程和渠道设计模式](https://app.genmymodel.com/edit/_qEg1wD2tEeasXOwdiC7aMg/_qEhc0j2tEeasXOwdiC7aMg#)
 * 日本的几本书
 * 产品 运营 bp books
 
