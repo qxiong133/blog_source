@@ -66,6 +66,8 @@ and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
       * input serializer and output serilaizer and with swagger doc
       * xadmin
       * django tdd + mock + factory + factory init db data to qality assurance
+          * [Factory Boy Fun](https://adamj.eu/tech/2014/09/03/factory-boy-fun/)
+          * 使用django的command 在里面调用factory的具体类别 就能再数据库生成测试数据
       * django migration
       * benchmark
       * perfomance(1.setting slow sql switch open 2. every fun's time consume)
