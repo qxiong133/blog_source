@@ -7,9 +7,9 @@ title = "TODO"
 
 ### daily:
 
-* body exercise + song + 知米 + algorithm competition + 知米listen + new concept +  develop news 
+* body exercise + song + **知米** + algorithm competition + 知米listen + new concept +  develop news 
 * mathematical modeling + kernel + compiler + tcp/ip/http + db
-* leetcode/just for fun/algorithm competition/ zenguofan
+* **leetcode**/just for fun/algorithm competition/ zenguofan
 * machine leaning
 * sicp[learn sicp](http://numbbbbb.com/2016/03/28/20160328_%E6%88%91%E5%A6%82%E4%BD%95%E7%94%A8%E4%B8%A4%E5%91%A8%E6%97%B6%E9%97%B4%E5%88%B7%E5%AE%8C%20SICP/?from=timeline&isappinstalled=0)
 
@@ -37,7 +37,7 @@ title = "TODO"
 *  2. nginx + openresty (开发一个openresty c plugin)[agentzh nginx](https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11)
 [如何高效的学习Nginx源码](https://www.zhihu.com/question/20857459) [OpenResty最佳实践](https://moonbingbing.gitbooks.io/openresty-best-practices/content/ngx_lua/block_io.html)
 and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
-*  3. gunicore +  nsq + codis
+*  3. gunicore +  **nsq** + codis
 * 4. [浏览器的工作原理：新式网络浏览器幕后揭秘](http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
 * 5. lua解释器
 
@@ -81,6 +81,7 @@ and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
 * c swig compile
 * np problem
 * 增长黑客书   增长黑客工具 (微博用户 微信用户 qq用户 淘宝用户) google广告插件/baidu/阿里  阿里云服务通过淘宝买8.5折扣
+  * [ 教你成为全栈工程师(Full Stack Developer) ](http://www.shareditor.com/blogshow/?blogId=2)
 * 博客
   * 如何写技术设计文档 在谷歌文档里面 
   * 流程和渠道的设计模式 控制反转ioc 依赖注入di  
@@ -88,7 +89,8 @@ and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
       * 这边需要一个processon.com的uml图 [联名会员流程和渠道设计模式](https://app.genmymodel.com/edit/_qEg1wD2tEeasXOwdiC7aMg/_qEhc0j2tEeasXOwdiC7aMg#)
 * 日本的几本书
 * 产品 运营 bp books
-
+* 转发朋友圈的动机  炫耀 激励 知识传播  
+* 翻译技术文章
 
 
 
@@ -96,8 +98,3 @@ and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
 * 大数据基础服务  +  广告策略服务 + 反垃圾  + 运维
   * ansible 部署 haddoop spark 
   * 小米的运维系统
-
-
-
-
-
