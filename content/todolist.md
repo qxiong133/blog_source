@@ -37,9 +37,10 @@ title = "TODO"
 *  2. nginx + openresty (开发一个openresty c plugin)[agentzh nginx](https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11)
 [如何高效的学习Nginx源码](https://www.zhihu.com/question/20857459) [OpenResty最佳实践](https://moonbingbing.gitbooks.io/openresty-best-practices/content/ngx_lua/block_io.html)
 and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
-*  3. gunicore +  **nsq** + codis
+*  3. gunicore +  **nsq** + codis + docker
 * 4. [浏览器的工作原理：新式网络浏览器幕后揭秘](http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
 * 5. lua解释器
+* 6. kernel
 
 ### jobs:
 * 1. colleague zhangjian's ansible script + nginx proxy pip + vanish
