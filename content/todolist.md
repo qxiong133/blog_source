@@ -36,8 +36,9 @@ title = "TODO"
 ### source:2,3
 *  2. nginx + openresty (开发一个openresty c plugin)[agentzh nginx](https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11)
 [如何高效的学习Nginx源码](https://www.zhihu.com/question/20857459) [OpenResty最佳实践](https://moonbingbing.gitbooks.io/openresty-best-practices/content/ngx_lua/block_io.html)
+  * openrest 如何集成到nginx 
 and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
-*  3. gunicore +  **nsq** + codis + docker
+* 3. gunicore +  **nsq** + codis + docker
 * 4. [浏览器的工作原理：新式网络浏览器幕后揭秘](http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
 * 5. lua解释器
 * 6. kernel
@@ -50,7 +51,6 @@ and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
   * online service  es nsq codis mysql_proxy...
   * data service hadoop spark 
   * tools service gogs dron.io wiki ...
-
 
 * 2. 交易系统架构
   * [美团支付平台产品规划——4月26日](http://wenku.baidu.com/view/7daa609d376baf1ffd4fad09.html)
@@ -99,3 +99,21 @@ and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
 * 大数据基础服务  +  广告策略服务 + 反垃圾  + 运维
   * ansible 部署 haddoop spark 
   * 小米的运维系统
+
+
+* nsq readding
+  * 相关链接
+    * [RayXXZhang的博客](http://blog.rayxxzhang.com/categories/nsq源码解析/)
+    * [NSQ源码剖析之nsqd](http://shanks.leanote.com/post/NSQ源码剖析之NSQD)
+    * [Frank](http://feixiao.github.io/tags/NSQ/)
+    * [nsq](http://www.baiyuxiong.com/?p=873)
+  * 1.部署使用 熟悉业务场景
+  * 2.总体阅读 总体框架 结构图  2  如果有总体框架可以看 可以先总体 如果没有总体图 只能先看3然后形成总体
+  * 3.概念 业务场景数据流(看懂数据流过的每个组件功能 看懂业务模块 在看实现业务的底层模块) 启动流程(启动每个组件之间的关系) 最后产出架构图  把代码checkout出来一份 好习惯边看边注释 然后把关键注释的东西拿出来做博客 2
+    * nsqd 如果挂了 生产者发送的消息是给nsqlookup? 接受的work如何容错 多个nsqd?
+  * 4.随心所欲修改框架 针对客户端的实时推送框架 聊天框架 深入go语言的源码
+  * 5.对比其他框架/组件
+
+* python 进阶
+* c++ 源码框架阅读 比如mudo
+* 从浏览器到内核 人类世界从现实往虚拟迁移
