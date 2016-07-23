@@ -48,10 +48,11 @@ type: post
 * the rest link [Leetcode刷完了第一次，用了一个半月，完全人肉debug，接受率不到20%，第二次该如何刷？](https://www.zhihu.com/question/34615079)
 * associate book 
 
-> 1. [Introduction to Algorithms](https://book.douban.com/subject/1433399/) todo
-2. [Algorithm Design](https://book.douban.com/subject/1475870/) 
+> 1. [Introduction to Algorithms](https://book.douban.com/subject/1433399/)算法导论
+2. [Algorithm Design](https://book.douban.com/subject/1475870/) [算法设计](https://book.douban.com/subject/2035809/)
 3. [Cracking the Coding Interview](https://book.douban.com/subject/10436668/) 
 4. [Cracking the Coding Interview: 150 Programming Questions and Solutions(5th edition)](https://book.douban.com/subject/6872527/)
 5. Learn Python the Hard way
 6. 秋叶拓哉-挑战程序设计竞赛, 刘汝佳翻译的-挑战编程：程序设计竞赛训练手册
 7. 刘汝佳 算法竞赛入门经典
+8. [算法设计手册](https://book.douban.com/subject/4048566/) [The Algorithm Design Manual](https://book.douban.com/subject/3072383/)
