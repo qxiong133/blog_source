@@ -58,7 +58,12 @@ and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
   * [高可用性系统在大众点评的实践与经验](http://tech.meituan.com/high-availability-systems-dianping.html)
   * [大众点评支付渠道网关系统的实践之路](http://tech.meituan.com/The-Practice-of-Dianping-Channel-Gateway.html)
 
-* bootstrap + react + nginx lua + django + nsq
+* bootstrap + vuejs + requirejs + vuex + webpack + nginx lua + django + nsq
+  * bootstrap + vuejs + requirejs + webpack + vuex + bootflat
+	  * 前端代码组织结构
+		* [A Good Front-End Architecture](https://www.sitepoint.com/good-front-end-architecture/)
+        * [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue#tutorials)
+        * 还是使用架手架生成代码框架 vue-cli
   * django core
       * fileupload
       * imageupload to db with thumbnail
@@ -92,6 +97,10 @@ and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
 * 产品 运营 bp books
 * 转发朋友圈的动机  炫耀 激励 知识传播  
 * 翻译技术文章
+* 优秀的人才标准 聪明 谦虚 -- 为什么是这个标准 自己如何成为 招人标准 招人学问
+* 情商问题 来自知乎的情商提高问题 说话和读书的动机 1情绪的发泄 2理性传播知识 3情感沟通
+* 如何定义自己的价值  提升自己cpu结构--内功 同样的信息输入 有自己的理解产出 并且是有深度且对人有帮助的 而不是信息的传递者
+* 如何结交朋友与维系 要求有广度多参加各种活动  有深度 兴趣维系 
 
 
 
@@ -117,3 +126,22 @@ and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
 * python 进阶
 * c++ 源码框架阅读 比如mudo
 * 从浏览器到内核 人类世界从现实往虚拟迁移
+
+
+### blog:
+* 计算机的江湖  技术篇
+	道  思维模式 开脑洞 刨根问底 分享 归纳 演绎 分类
+	器  操作系统 编译 算法 网络 巩固新的思维模式
+	术  工具 技巧
+
+* 计算机的江湖  管理篇
+	道  思维模式 
+	器 
+	术 
+	管理者善用你的信任值
+	自由 成长的环境
+	严纪与活力
+	加班问题
+
+
+
