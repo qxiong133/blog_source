@@ -36,8 +36,15 @@ title = "TODO"
 ### source:2,3
 *  2. nginx + openresty (开发一个openresty c plugin)[agentzh nginx](https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11)
 [如何高效的学习Nginx源码](https://www.zhihu.com/question/20857459) [OpenResty最佳实践](https://moonbingbing.gitbooks.io/openresty-best-practices/content/ngx_lua/block_io.html)
-  * openrest 如何集成到nginx 
-and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
+  * openrest 如何集成到nginx and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
+  * nginx+lua 使用
+      * [Nginx+Lua两章](http://jinnianshilongnian.iteye.com/blog/2186270)
+      * [使用Nginx+Lua(OpenResty)开发高性能Web应用](http://jinnianshilongnian.iteye.com/blog/2280928)
+      * [ngx-lua源码阅读笔记(1)](http://zqscm.qiniucdn.com/data/20140809215932/index.html)
+      * [ngx lua模块源码简单解析](http://blog.csdn.net/liujiyong7/article/details/37692027)
+  * 原理相关
+      * [Nginx学习之一](http://m.blog.csdn.net/article/details?id=9130237)
+      * [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html)
 * 3. gunicore +  **nsq** + codis + docker
 * 4. [浏览器的工作原理：新式网络浏览器幕后揭秘](http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
 * 5. lua解释器
@@ -58,12 +65,14 @@ and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
   * [高可用性系统在大众点评的实践与经验](http://tech.meituan.com/high-availability-systems-dianping.html)
   * [大众点评支付渠道网关系统的实践之路](http://tech.meituan.com/The-Practice-of-Dianping-Channel-Gateway.html)
 
-* bootstrap + vuejs + requirejs + vuex + webpack + nginx lua + django + nsq
-  * bootstrap + vuejs + requirejs + webpack + vuex + bootflat
-	  * 前端代码组织结构
-		* [A Good Front-End Architecture](https://www.sitepoint.com/good-front-end-architecture/)
+* bootstrap + vuejs + requirejs + vux + webpack + nginx lua + django + nsq
+  * bootstrap + vuejs + requirejs + webpack + vux + bootflat
+      * 前端代码组织结构
+        * [A Good Front-End Architecture](https://www.sitepoint.com/good-front-end-architecture/)
         * [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue#tutorials)
         * 还是使用架手架生成代码框架 vue-cli
+        * vue没有调通[airyland/vux](https://github.com/airyland/vux)
+
   * django core
       * fileupload
       * imageupload to db with thumbnail
@@ -82,6 +91,7 @@ and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
               * [Profiling Django](https://code.djangoproject.com/wiki/ProfilingDjango)
               * [Django log filter for slow SQL queries](http://stackoverflow.com/questions/17108810/django-log-filter-for-slow-sql-queries)
       * review django document and restful document
+      * [Django REST Swagger](http://django-rest-swagger.readthedocs.io/en/stable-0.3.x/)
 
 
 * c swig compile
@@ -130,18 +140,18 @@ and [nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)
 
 ### blog:
 * 计算机的江湖  技术篇
-	道  思维模式 开脑洞 刨根问底 分享 归纳 演绎 分类
-	器  操作系统 编译 算法 网络 巩固新的思维模式
-	术  工具 技巧
+    道  思维模式 开脑洞 刨根问底 分享 归纳 演绎 分类
+    器  操作系统 编译 算法 网络 巩固新的思维模式
+    术  工具 技巧
 
 * 计算机的江湖  管理篇
-	道  思维模式 
-	器 
-	术 
-	管理者善用你的信任值
-	自由 成长的环境
-	严纪与活力
-	加班问题
+    道  思维模式 
+    器 
+    术 
+    管理者善用你的信任值
+    自由 成长的环境
+    严纪与活力
+    加班问题
 
 
 
