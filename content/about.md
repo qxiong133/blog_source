@@ -6,3 +6,5 @@ title = "关于未来"
 +++
 
 ## 未来...
+
+![aa](http://qxiong133.github.io/DeepinScrot-0216.png)
