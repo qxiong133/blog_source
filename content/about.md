@@ -7,4 +7,4 @@ title = "关于未来"
 
 ## 未来...
 
-![aa](http://qxiong133.github.io/DeepinScrot-0216.png)
+![测试图片](http://qxiong133.github.io/img/1038447_34.jpg)
